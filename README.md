@@ -11,4 +11,5 @@
  
  
 </ol> 
+<img src="https://www.python.org/static/opengraph-icon-200x200.png alt="Girl in a jacket">
 
