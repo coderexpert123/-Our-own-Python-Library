@@ -1,0 +1,7 @@
+README.txt
+setup.py
+pc/__init__.py
+pc.egg-info/PKG-INFO
+pc.egg-info/SOURCES.txt
+pc.egg-info/dependency_links.txt
+pc.egg-info/top_level.txt
